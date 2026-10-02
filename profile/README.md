@@ -1,64 +1,25 @@
-<p align="center">
-  <img
-    alt="InterIA Banner"
-    src="https://img.shields.io/badge/InterIA-Math%20×%20AI%20×%20Open%20Science-0d47a1?labelColor=000000&style=for-the-badge"
-  >
-</p>
+# InterIA — Mathematics, AI and reproducible research
 
-# 🧠 InterIA — Mathematics × AI × Open Science
+Independent research initiative led by Alexandre Couret. Current publications distinguish bounded mathematical results, finite computations, provenance and publication status. Software checks and public availability do not validate every claim in a research programme.
 
-**InterIA** is an independent research initiative exploring the frontier between:
+## Current public reference packages
 
-- analytic number theory (Riemann Hypothesis, zeta zeros, explicit formulae),
-- spectral statistics & information geometry,
-- AI-assisted mathematical discovery (LLM workflows, multi-agent pipelines),
-- open and reproducible scientific practices.
+- [Couret — finite verifications](https://github.com/alexcour/couret-finite-verifications) — v1.0.0 ; DOI [10.5281/zenodo.22978365](https://doi.org/10.5281/zenodo.22978365) ; [HAL](https://hal.science/hal-05766909).
+- [HOL-01: Exact finite monodromy certificate at p=7 for a Barning-Berggren congruence graph](https://github.com/alexcour/hol01-monodromy-p7) — v1.1.1 ; DOI [10.5281/zenodo.22978389](https://doi.org/10.5281/zenodo.22978389) ; [HAL](https://hal.science/hal-05766912).
+- [Qui répond des mathématiques produites par machine ? — public reproducibility package](https://github.com/alexcour/qui-repond-mathematiques-ia) — v1.1.0 ; DOI [10.5281/zenodo.23079572](https://doi.org/10.5281/zenodo.23079572) ; [HAL](https://hal.science/hal-05773424).
 
-We build analytic frameworks, math labs, experiments, libraries, and visual tools
-aimed at pushing the limits of modern mathematical exploration.
+The AI–mathematics case study has separate version series: package v1.1.0, manuscript v1.1.1 and frozen dataset v1.1.2. The manuscript is a working preprint, not peer reviewed.
 
----
+## Repositories in this organisation
 
-## 📂 Main repositories
+- `rh-analytic-framework-t1t4`: historical archive. T1′–T4 does not establish RH; earlier proof/journal-ready descriptions are superseded as current status.
+- `interia-math-lab`: exploratory and historical experiments, without a validated universal λ invariant claim.
+- `interia-quality`, `interia-suite`, `interia-style`: supporting software, integration and presentation. Tool quality does not prove the portfolio's mathematics.
+- `community`: discussion and collaboration. Research goals are not established results.
 
-Some key public repositories under this organisation:
+Website: https://www.couretunification.fr/  
+Publications: https://www.couretunification.fr/publications-et-depots/  
+Contact: https://www.couretunification.fr/contact/  
+Alexandre Couret, independent researcher, France. ORCID: https://orcid.org/0009-0000-8246-7146.
 
-- **interia-style** — shared styles, templates, structures
-- **rh-analytic-framework-t1t4** — analytic framework around T1′–T4
-- **interia-math-lab** — exploratory notebooks and experiments (Δ₃, λ, zeros, etc.)
-- **community** — discussions and organisation
-
----
-
-## 🤝 Join the community
-
-👉 **<https://github.com/couret-interia/community/discussions>**
-
-Use the discussion space to ask questions, share ideas, or propose collaborations.
-
----
-
-## 🪪 Identity & contact
-
-- **Initiative:** InterIA (independent research initiative)
-- **Main contact:** Alexandre Couret
-- **Contact :** <https://couret-interia.fr/contact>
-- **GitHub organisation:** <https://github.com/couret-interia>
-
-You can reuse this form of identity in papers and metadata:
-> *Affiliation (suggested):* InterIA (independent research initiative)
-
----
-
-## 📜 Principles
-
-- **Rigor + Openness.** Sound math with open workflows.
-- **Reproducibility.** Everything should be inspectable & runnable.
-- **Respect.** Human-first collaboration with constructive dialogue.
-- **Exploration.** We value experiments, intuition, and emergence.
-
----
-
-<p align="center">
-  <sub>© InterIA — Open Mathematics for Everyone</sub>
-</p>
+The historical work of Bernard Couret is documented separately. Modern reconstructions must not be attributed to him without sources. No result in the T1′–T4 archive is presented as a proof of RH.
