@@ -1,49 +1,25 @@
-<p align="center">
-  <img alt="InterIA" src="https://img.shields.io/badge/InterIA-Math%20×%20AI%20×%20Open%20Science-0d47a1?labelColor=000000&style=for-the-badge">
-</p>
+# InterIA — Mathematics, AI and reproducible research
 
-# 🌿 InterIA — Github profile repository
+Independent research initiative led by Alexandre Couret. Current publications distinguish bounded mathematical results, finite computations, provenance and publication status. Software checks and public availability do not validate every claim in a research programme.
 
-InterIA is a collaborative initiative exploring the frontier between:
+## Current public reference packages
 
-- analytic number theory (RH, zeta zeros, modular structures),
-- spectral statistics and information geometry,
-- AI-assisted mathematical exploration (multi-agent pipelines, reproducible notebooks).
+- [Couret — finite verifications](https://github.com/alexcour/couret-finite-verifications) — v1.0.0 ; DOI [10.5281/zenodo.22978365](https://doi.org/10.5281/zenodo.22978365) ; [HAL](https://hal.science/hal-05766909).
+- [HOL-01: Exact finite monodromy certificate at p=7 for a Barning-Berggren congruence graph](https://github.com/alexcour/hol01-monodromy-p7) — v1.1.1 ; DOI [10.5281/zenodo.22978389](https://doi.org/10.5281/zenodo.22978389) ; [HAL](https://hal.science/hal-05766912).
+- [Qui répond des mathématiques produites par machine ? — public reproducibility package](https://github.com/alexcour/qui-repond-mathematiques-ia) — v1.1.0 ; DOI [10.5281/zenodo.23079572](https://doi.org/10.5281/zenodo.23079572) ; [HAL](https://hal.science/hal-05773424).
 
----
+The AI–mathematics case study has separate version series: package v1.1.0, manuscript v1.1.1 and frozen dataset v1.1.2. The manuscript is a working preprint, not peer reviewed.
 
-## 🔭 Main Axes
+## Repositories in this organisation
 
-- **RH analytic frameworks** (e.g. T1′–T4, Guinand–Weil, wave packets).
-- **Prime structures & λ-invariants** (Couret–style mod 30, Δ₃, spectral surrogates).
-- **Interdisciplinary labs** (math-lab style repos, visual galleries, LaTeX + code).
+- `rh-analytic-framework-t1t4`: historical archive. T1′–T4 does not establish RH; earlier proof/journal-ready descriptions are superseded as current status.
+- `interia-math-lab`: exploratory and historical experiments, without a validated universal λ invariant claim.
+- `interia-quality`, `interia-suite`, `interia-style`: supporting software, integration and presentation. Tool quality does not prove the portfolio's mathematics.
+- `community`: discussion and collaboration. Research goals are not established results.
 
----
+Website: https://www.couretunification.fr/  
+Publications: https://www.couretunification.fr/publications-et-depots/  
+Contact: https://www.couretunification.fr/contact/  
+Alexandre Couret, independent researcher, France. ORCID: https://orcid.org/0009-0000-8246-7146.
 
-## 🧩 Key Repositories
-
-- 🔹 [`rh-analytic-framework-t1t4`](https://github.com/couret-interia/rh-analytic-framework-t1t4)
-— Proof-only analytic framework (T1′–T4).
-- 🔹 [`interia-math-lab`](https://github.com/couret-interia/interia-math-lab)
-— Experimental lab for analytic and spectral experiments.
-- 🔹 [`interia-style`](https://github.com/couret-interia/interia-style)
-— Corporate style guide and templates for all InterIA projects.
-- 🔹 [`community`](https://github.com/couret-interia/community)
-— Public discussions, meta-organization, and collaborative planning.
-
----
-
-## 💬 Join the Discussion
-
-Public forum (ideas, feedback, collaborations):
-
-[💬 InterIA Community Discussions](https://github.com/couret-interia/community/discussions)
-
----
-
-## 📜 Principles
-
-- **Open Science.** Code, data, and LaTeX are meant to be reproducible.
-- **Respect.** We assume good intent and foster constructive dialogue.
-- **Rigor + Imagination.** We care about proofs, experiments and also
-about new ways of seeing.
+The historical work of Bernard Couret is documented separately. Modern reconstructions must not be attributed to him without sources. No result in the T1′–T4 archive is presented as a proof of RH.

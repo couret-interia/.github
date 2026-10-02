@@ -1,67 +1,25 @@
-<p align="center">
-  <img
-    alt="Bannière InterIA"
-    src="https://img.shields.io/badge/InterIA-Maths%20×%20IA%20×%20Science%20Ouverte-0d47a1?labelColor=000000&style=for-the-badge"
-  >
-</p>
+# InterIA — Mathématiques, IA et recherche reproductible
 
-# 🧠 InterIA — Mathématiques × IA × Science Ouverte
+Initiative de recherche indépendante portée par Alexandre Couret. Les publications actuelles distinguent les résultats mathématiques, les calculs finis, la provenance et la diffusion. Une mise en ligne ou un test logiciel ne vaut pas preuve de toutes les revendications d’un programme.
 
-**InterIA** est une initiative de recherche indépendante
-qui explore la frontière entre :
+## Publications publiques de référence
 
-- théorie analytique des nombres (RH, zéros de ζ, formules explicites),
-- statistiques spectrales & géométrie de l'information,
-- découverte mathématique assistée par IA (LLM, systèmes multi-agents),
-- pratiques scientifiques **ouvertes** et **reproductibles**.
+- [Couret — finite verifications](https://github.com/alexcour/couret-finite-verifications) — v1.0.0 ; DOI [10.5281/zenodo.22978365](https://doi.org/10.5281/zenodo.22978365) ; [HAL](https://hal.science/hal-05766909).
+- [HOL-01: Exact finite monodromy certificate at p=7 for a Barning-Berggren congruence graph](https://github.com/alexcour/hol01-monodromy-p7) — v1.1.1 ; DOI [10.5281/zenodo.22978389](https://doi.org/10.5281/zenodo.22978389) ; [HAL](https://hal.science/hal-05766912).
+- [Qui répond des mathématiques produites par machine ? — public reproducibility package](https://github.com/alexcour/qui-repond-mathematiques-ia) — v1.1.0 ; DOI [10.5281/zenodo.23079572](https://doi.org/10.5281/zenodo.23079572) ; [HAL](https://hal.science/hal-05773424).
 
-Nous développons des cadres analytiques, des math-labs, des scripts et des visualisations
-pour pousser plus loin l’exploration mathématique contemporaine
-autour de l'Hypothèse de Rieman (Rieman Hypothesis) et de questions voisines.
+Les trois séries de versions du dossier humain–IA restent distinctes : paquet v1.1.0, manuscrit v1.1.1, corpus v1.1.2. Le manuscrit est un préprint de travail non évalué par les pairs.
 
----
+## Dépôts de cette organisation
 
-## 📂 Dépôts principaux
+- `rh-analytic-framework-t1t4` : archive historique ; T1′–T4 ne démontre pas RH. Les anciens intitulés valorisants sont supersédés par le statut actuel.
+- `interia-math-lab` : expériences exploratoires et archives, sans revendication d’invariant λ universel validé.
+- `interia-quality`, `interia-suite`, `interia-style` : outillage, intégration et présentation ; leur qualité logicielle ne valide pas les mathématiques du portefeuille.
+- `community` : cadre de discussion et collaboration ; les objectifs de recherche ne sont pas des résultats acquis.
 
-Quelques dépôts publics sous cette organisation :
+Site : https://www.couretunification.fr/  
+Publications : https://www.couretunification.fr/publications-et-depots/  
+Contact : https://www.couretunification.fr/contact/  
+Auteur : Alexandre Couret, chercheur indépendant, France. ORCID : https://orcid.org/0009-0000-8246-7146.
 
-- **interia-style** — styles, templates, structures
-- **rh-analytic-framework-t1t4** — cadre analytique autour de T1′–T4
-- **interia-math-lab** — notebooks et explorations (Δ₃, λ, zéros, etc.)
-- **community** — discussions & organisation
-
----
-
-## 🤝 Rejoindre la communauté
-
-👉 **<https://github.com/couret-interia/community/discussions>**
-
-Utilisez cet espace pour poser des questions, partager des idées
-ou proposer des collaborations.
-
----
-
-## 🪪 Identité & contact
-
-- **Initiative :** InterIA (initiative de recherche indépendante)
-- **Contact principal :** Alexandre Couret
-- **Contact :** <https://couret-interia.fr/contact>
-- **Organisation GitHub :** <https://github.com/couret-interia>
-
-Formulation d’affiliation suggérée pour les articles :
-> *Affiliation :* InterIA (initiative de recherche indépendante)
-
----
-
-## 📜 Principes
-
-- **Rigueur + ouverture.** Des maths solides avec des workflows ouverts.
-- **Reproductibilité.** Tout doit être inspectable et exécutable.
-- **Respect.** Une collaboration centrée sur l’humain et le dialogue constructif.
-- **Exploration.** On valorise les expériences, l’intuition et l’émergence.
-
----
-
-<p align="center">
-  <sub>© InterIA — Mathématiques Ouvertes pour Tous</sub>
-</p>
+Les origines historiques et les travaux de Bernard Couret sont documentés séparément ; aucune reconstruction moderne ne lui est attribuée sans source. Aucun résultat de l’archive T1′–T4 n’est présenté comme une preuve de RH.
